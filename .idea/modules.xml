@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicJavaClasses2020/BasicJavaClasses2020.iml" filepath="$PROJECT_DIR$/BasicJavaClasses2020/BasicJavaClasses2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicJavaClasses2021/BasicJavaClasses2021.iml" filepath="$PROJECT_DIR$/BasicJavaClasses2021/BasicJavaClasses2021.iml" />
     </modules>
   </component>
 </project>
